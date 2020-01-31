@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "0da28588-11f3-49f6-a7ed-2571623008e7",
+            "Value": {
+                "id": "a52b89a3-c7df-4e87-9b5e-0ee9100ce10d",
+                "resourcePath": "sprites\\spr_gem_purple\\spr_gem_purple.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0e7f8789-6c94-45fb-a2d7-c077fa46de4f",
             "Value": {
                 "id": "fc8f7357-f0a9-43ed-9318-b89f801e0fc7",
@@ -111,11 +119,27 @@
             }
         },
         {
+            "Key": "7f888314-b215-47a3-83aa-85dc604836ff",
+            "Value": {
+                "id": "ea44e2b7-c949-4777-a71f-b8987efee6aa",
+                "resourcePath": "sprites\\spr_green_gem\\spr_green_gem.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8427047f-9ef8-4c77-89f3-9c20623d07b6",
             "Value": {
                 "id": "a75726cd-d96a-431d-9011-394f2bf2aeb5",
                 "resourcePath": "options\\ios\\options_ios.yy",
                 "resourceType": "GMiOSOptions"
+            }
+        },
+        {
+            "Key": "871c5638-284e-46d4-b6d6-d19a55cc298a",
+            "Value": {
+                "id": "8383c15a-4399-4854-aea8-e6577392ead0",
+                "resourcePath": "sprites\\spr_blue_gem\\spr_blue_gem.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -140,6 +164,14 @@
                 "id": "9c4e5420-4f18-4994-b8ce-53ef0bbb6515",
                 "resourcePath": "options\\tvos\\options_tvos.yy",
                 "resourceType": "GMtvOSOptions"
+            }
+        },
+        {
+            "Key": "949d48d6-4dfd-4c10-8d50-8a6552cea751",
+            "Value": {
+                "id": "3a0622e7-c99f-4333-a881-20b012ba486f",
+                "resourcePath": "sprites\\spr_orange_gem\\spr_orange_gem.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -172,6 +204,14 @@
                 "id": "64129cf6-6251-4608-aaf6-d4dd55c607a3",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "b6e6ca0d-1b85-4dc7-bf08-b9b3171803a8",
+            "Value": {
+                "id": "36dc835a-a35f-444f-a493-15f575352768",
+                "resourcePath": "sprites\\spr_red_gem\\spr_red_gem.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
