@@ -31,6 +31,22 @@
     },
     "resources": [
         {
+            "Key": "0e7f8789-6c94-45fb-a2d7-c077fa46de4f",
+            "Value": {
+                "id": "fc8f7357-f0a9-43ed-9318-b89f801e0fc7",
+                "resourcePath": "objects\\grid\\grid.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "21cacc62-f39e-49dc-9730-308cb37bd16f",
+            "Value": {
+                "id": "f58ab001-1192-4f03-84cc-fc09ec20fc13",
+                "resourcePath": "tilesets\\tileset0\\tileset0.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "35c03510-e9f0-4600-8e9e-a7b3e9c2d23c",
             "Value": {
                 "id": "6af5bfe5-c990-49b9-b9e5-b5cb2390ed6a",
@@ -159,6 +175,14 @@
             }
         },
         {
+            "Key": "bb84a136-eb44-4213-820c-ae48eebf941f",
+            "Value": {
+                "id": "b54eac38-ec67-4b01-9a15-a033a01637f6",
+                "resourcePath": "sprites\\grid_spr\\grid_spr.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c769b223-1d88-4070-8b9e-77cdc834b3ff",
             "Value": {
                 "id": "78f35db3-b038-461b-9905-c0926c157a4e",
@@ -175,6 +199,14 @@
             }
         },
         {
+            "Key": "ca7ce4c5-fa93-45ed-83f1-6699dd0b2ebd",
+            "Value": {
+                "id": "2a5a1b67-0897-401b-bbd0-39f8f2e9af2d",
+                "resourcePath": "sprites\\ground_edge_spr\\ground_edge_spr.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cbacb0fc-352b-425e-b0e5-3c393f44fba8",
             "Value": {
                 "id": "d4c1c03d-4d76-433e-9f9d-868ea02f16c4",
@@ -188,6 +220,14 @@
                 "id": "fbdff091-6d17-4007-b106-ee377402b858",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d2c6fcfc-bb6d-4591-b356-4e4aded4ab42",
+            "Value": {
+                "id": "1a7a1336-5586-474f-819e-3d2f4309e1dd",
+                "resourcePath": "sprites\\water_bg\\water_bg.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
