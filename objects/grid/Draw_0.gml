@@ -10,6 +10,11 @@ for (var xx=0; xx<wid; xx++)
 	}
 }
 
+if holding != noone && g[mgx,mgy] >-1
+{
+	draw_sprite_ext(cell_edge_spr,0,x+mgx*cell_+cell_/2,y+mgy*cell_+cell_/2,1,1,closest_edge,c_white,1)
+}
+
 //debug
 draw_set_color(c_red);
 draw_text(20,20,mgx);
