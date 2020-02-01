@@ -10,16 +10,21 @@ x_mov = -1;
 y_mov = 0;
 
 var combo = -1;
+
 switch dropping
 {
-	case item.Grass: combo=grass_combo(dropon); break;
-	case item.Stick: combo=stick_combo(dropon); break;
-	case item.Small_animal: combo=smlaml_combo(dropon); break;
-	case item.Shrub: combo=shrub_combo(dropon); break;
-	case item.Dirt: combo=dirt_combo(dropon); break;
+	case item.Grass: combo=Grass_combo(dropon); break;
+	case item.Stick: combo=Stick_combo(dropon); break;
+	case item.Small_animal: combo=Small_animal_combo(dropon); break;
+	case item.Shrub: combo=Shrub_combo(dropon); break;
+	case item.Dirt: combo=Dirt_combo(dropon); break;
+	case item.Poo: combo=Poo_combo(dropon); break;
+	case item.Rock: combo=Rock_combo(dropon); break;
+	case item.Ore: combo=Ore_combo(dropon); break;
+	case item.Ore: combo=Ore_combo(dropon); break;
 	default: combo = -1;
-	
 }
+
 
 if combo != -1
 {

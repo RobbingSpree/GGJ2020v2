@@ -1,19 +1,19 @@
 
 switch argument0
 {
-	case item.Grass:		return item.Medium_Animal;
-	case item.Stick:		return -1;
-	case item.Small_animal: make_new_item(item.Small_animal);	return item.Small_animal; // needs extra functionality
-	case item.Shrub:		return -1;
-	case item.Dirt:			return -1;
-	case item.Poo:			return -1;
-	case item.Rock:				return -1;
+	case item.Grass:			return item.Medium_Animal;
+	case item.Stick:			return -1;
+	case item.Small_animal:		make_new_item(item.Small_animal);	return item.Small_animal; // needs extra functionality
+	case item.Shrub:			return item.Medium_Animal;
+	case item.Dirt:				return -1;
+	case item.Poo:				return -1;
+	case item.Rock:				return item.Corpse;
 	case item.Ore:				return -1;
-	case item.Sprout:			return -1;
+	case item.Sprout:			return item.Medium_Animal;
 	case item.Coal:				return -1;
 	case item.Insect:			return -1;
-	case item.Bee:				return -1;
-	case item.Water:			return -1;
+	case item.Bee:				return item.Small_animal;
+	case item.Water:			return item.Turtle;
 	case item.Long_Grass:		return -1;
 	case item.Medium_Animal:	return -1;
 	case item.Crop:				return -1;

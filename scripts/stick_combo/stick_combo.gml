@@ -9,11 +9,11 @@ switch argument0
 	case item.Poo:				return -1;
 	case item.Rock:				return -1;
 	case item.Ore:				return -1;
-	case item.Sprout:			return -1;
-	case item.Coal:				return -1;
+	case item.Sprout:			return item.Mushrooms;
+	case item.Coal:				return item.Pencil;
 	case item.Insect:			return -1;
 	case item.Bee:				return -1;
-	case item.Water:			return -1;
+	case item.Water:			return item.Water;
 	case item.Long_Grass:		return -1;
 	case item.Medium_Animal:	return -1;
 	case item.Crop:				return -1;

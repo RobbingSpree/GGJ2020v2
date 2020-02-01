@@ -41,5 +41,7 @@ enum item
 	Hive,
 	Hay_Stack,
 	Bigger_Crops,
-	Longer_Grass
+	Longer_Grass,
+	Preditor,
+	Larger_Animal
 }

@@ -13,9 +13,9 @@ switch argument0
 	case item.Coal:				return -1;
 	case item.Insect:			return -1;
 	case item.Bee:				return -1;
-	case item.Water:			return item.Long_Grass;
-	case item.Long_Grass:		return -1;
-	case item.Medium_Animal:	return -1;
+	case item.Water:			grid.result_size=2; return item.Long_Grass;
+	case item.Long_Grass:		grid.result_size=2; return item.Hay_Stack;
+	case item.Medium_Animal:	return item.Larger_Animal;
 	case item.Crop:				return -1;
 	case item.Moss:				return -1;
 	case item.Flower:			return -1;

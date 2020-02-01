@@ -4,9 +4,12 @@ for (var xx=0; xx<wid; xx++)
 {
 	for (var yy=0; yy<hei; yy++)
 	{
+		
 		draw_sprite(grid_spr,0,x+xx*cell_,y+yy*cell_);
-		if g[xx,yy] != noone
+		if g[xx,yy] >-1
 			draw_sprite(item_spr,g[xx,yy],x+xx*cell_,y+yy*cell_);
+		else if g[xx,yy] ==-2
+			draw_sprite(fire_spr,fire_ani,x+xx*cell_,y+yy*cell_);
 	}
 }
 
@@ -16,6 +19,7 @@ if holding != noone && g[mgx,mgy] >-1
 }
 
 //debug
+/*
 draw_set_color(c_red);
 draw_text(20,20,mgx);
 draw_text(20,40,mgy);

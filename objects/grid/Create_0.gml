@@ -10,6 +10,13 @@ pickup_x = -1;
 pickup_y = -1;
 closest_edge = 0;
 result_size = 1;
+poo_stks = 0;
+rck_axe = 0;
+fire = false;
+
+animate = 0;
+ani_loop = 120;
+fire_ani = 0;
 
 for (var xx=0; xx<wid; xx++)
 {

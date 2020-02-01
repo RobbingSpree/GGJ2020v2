@@ -6,7 +6,7 @@ for (var xx=0; xx<wid; xx++)
 {
 	for (var yy=0; yy<hei; yy++)
 	{
-		gridy[xx,yy]=irandom(item.Dirt);
+		gridy[xx,yy]=item.Rock;//irandom(item.Dirt);
 	}
 }
 

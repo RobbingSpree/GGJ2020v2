@@ -12,3 +12,12 @@ if mouse_x > x && mouse_y > y && mouse_x < x+wid*cell_ && mouse_y < x+wid*cell_
 		closest_edge = round(closest_edge / 90) * 90;
 	}
 }
+
+animate++;
+if animate >= ani_loop
+{
+	fire_ani+=1;
+	if fire_ani ==3
+		fire_ani = 0;
+	animate=0;
+}
