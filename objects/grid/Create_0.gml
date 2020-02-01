@@ -9,6 +9,7 @@ holding = noone;
 pickup_x = -1;
 pickup_y = -1;
 closest_edge = 0;
+result_size = 1;
 
 for (var xx=0; xx<wid; xx++)
 {
