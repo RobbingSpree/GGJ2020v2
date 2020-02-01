@@ -6,6 +6,8 @@ g=[]; //grid all items are stored in
 mgx = 0; //mouse grid pos x
 mgy = 0; //mouse grid pos y
 holding = noone;
+pickup_x = -1;
+pickup_y = -1;
 
 for (var xx=0; xx<wid; xx++)
 {
