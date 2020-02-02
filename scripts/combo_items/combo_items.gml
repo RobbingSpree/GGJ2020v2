@@ -6,11 +6,10 @@ var yy = argument4;
 
 //get the direction to move things in
 //fix later, assume move left
-x_mov = -1;
-y_mov = 0;
 
 var combo = -1;
-
+combo = combo_table[dropping,dropon];
+/*
 switch dropping
 {
 	case item.Grass: combo=Grass_combo(dropon); break;
@@ -21,10 +20,20 @@ switch dropping
 	case item.Poo: combo=Poo_combo(dropon); break;
 	case item.Rock: combo=Rock_combo(dropon); break;
 	case item.Ore: combo=Ore_combo(dropon); break;
-	case item.Ore: combo=Ore_combo(dropon); break;
+	case item.Sprout: combo=Sprout_combo(dropon); break;
+	case item.Coal: combo=Coal_combo(dropon); break;
+	case item.Insect: combo=Insect_combo(dropon); break;
+	case item.Bee: combo=Bee_combo(dropon); break;
+	case item.Water: combo=Water_combo(dropon); break;
+	case item.Long_Grass: combo=Long_Grass_combo(dropon); break;
+	case item.Medium_Animal: combo=Medium_Animal_combo(dropon); break;
+	case item.Crop: combo=Crop_combo(dropon); break;
+	case item.Flower: combo=Flower_combo(dropon); break;
+	case item.Bundle_of_sticks: combo=Bundle_of_sticks_combo(dropon); break;
+	case item.Corpse: combo=Corpse_combo(dropon); break;
 	default: combo = -1;
 }
-
+*/
 
 if combo != -1
 {
