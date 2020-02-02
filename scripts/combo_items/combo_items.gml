@@ -8,7 +8,7 @@ var yy = argument4;
 //fix later, assume move left
 
 var combo = -1;
-combo = combo_table[dropping,dropon];
+combo = ds_grid_get(combo_table,dropping,dropon);
 /*
 switch dropping
 {
