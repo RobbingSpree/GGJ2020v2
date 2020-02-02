@@ -13,6 +13,15 @@ if mouse_x > x && mouse_y > y && mouse_x < x+wid*cell_ && mouse_y < x+wid*cell_
 	}
 }
 
+if !mouse_check_button(mb_left) && holding!= noone
+{
+	g[pickup_x,pickup_y]=holding.image_index;
+	instance_destroy(holding);
+	holding = noone;
+	pickup_x = -1;
+	pickup_y = -1;
+}
+
 animate++;
 if animate >= ani_loop
 {

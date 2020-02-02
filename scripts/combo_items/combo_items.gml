@@ -1,4 +1,4 @@
-var gridy = argument0;
+var change_board = argument0;
 var dropping = argument1;
 var dropon = argument2;
 var xx = argument3;
@@ -9,7 +9,8 @@ combo = ds_grid_get(combo_table,dropping,dropon);
 
 if combo != -1
 {
-	grid.g[xx,yy]=combo;
+	if change_board
+		grid.g[xx,yy]=combo;
 	return combo;
 } else {
 	grid.g[grid.pickup_x,grid.pickup_y] = dropping;

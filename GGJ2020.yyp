@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "149e7afc-8445-41b7-b634-324a0bae9195",
+            "Value": {
+                "id": "c7a95dea-08e7-494b-a766-71058a5ada58",
+                "resourcePath": "fonts\\ui_fnt\\ui_fnt.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "1a26a811-9483-4a76-a41a-544d150e9b29",
             "Value": {
                 "id": "80918a9f-0332-4678-b3ae-05b5c5e40178",
@@ -524,6 +532,22 @@
                 "id": "a5b46031-7475-48cf-be06-35aa26748fdd",
                 "resourcePath": "scripts\\string_to_enum\\string_to_enum.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "ee079b67-4863-41c0-a4cc-d704d81af916",
+            "Value": {
+                "id": "bac9efeb-a5f7-4da8-9d64-e84daf81fc77",
+                "resourcePath": "sprites\\question_spr\\question_spr.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ee9848a7-d4d6-4b7b-882d-0f783376b7cd",
+            "Value": {
+                "id": "12959e3b-2125-4a9b-9f39-fdcc0e4f6b8b",
+                "resourcePath": "sprites\\bg_box\\bg_box.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

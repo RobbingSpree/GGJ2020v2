@@ -33,3 +33,10 @@ for (var xx=0; xx<wid; xx++)
 }
 
 g=fill_the_board(g,wid,hei);
+
+//setup unlocks
+unlocks = [];
+for (var i=0; i<ct_size; i++)
+{
+	unlocks[i]=0;
+}

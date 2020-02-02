@@ -5,7 +5,7 @@ if mouse_x > x && mouse_y > y && mouse_x < x+wid*cell_ && mouse_y < x+wid*cell_ 
 	if g[mgx,mgy]!= noone
 	{
 		var what_im_holding = holding.image_index;
-		var result = combo_items(g,what_im_holding,g[mgx,mgy],mgx,mgy);
+		var result = combo_items(true,what_im_holding,g[mgx,mgy],mgx,mgy);
 		if size_results(result) > 1
 		{
 			if size_results(result)>2
@@ -19,6 +19,7 @@ if mouse_x > x && mouse_y > y && mouse_x < x+wid*cell_ && mouse_y < x+wid*cell_ 
 				move_cells(closest_edge/90);
 			}
 		}
+		unlocks[result]+=1;
 		instance_destroy(holding);
 		holding = noone;
 		pickup_x = -1;
