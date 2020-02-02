@@ -1,8 +1,8 @@
 {
-    "id": "a3ae7e0a-4fea-43d1-8513-d682926e307e",
+    "id": "6ee1fc1a-812a-477b-82bd-8eececa73fd3",
     "modelName": "GMScript",
     "mvc": "1.0",
-    "name": "Medium_Animal_combo",
+    "name": "size_results",
     "IsCompatibility": false,
     "IsDnD": false
 }

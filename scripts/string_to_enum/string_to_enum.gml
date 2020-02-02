@@ -47,7 +47,7 @@ switch argument0
 	case "Large Animal":		return -1;
 	case "Fossil":			return -1;
 	case "Harvest":			return -1;
-	case "Barren Landscape":	return -1;
+	case "Barren":	return -1;
 	case "Moss Stick":		return	-1;
 	default: return -1;
 }
