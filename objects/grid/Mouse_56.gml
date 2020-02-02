@@ -24,11 +24,17 @@ if mouse_x > x && mouse_y > y && mouse_x < x+wid*cell_ && mouse_y < x+wid*cell_ 
 		holding = noone;
 		pickup_x = -1;
 		pickup_y = -1;
+		var me = audio_emitter_create();
+		audio_play_sound_on(me,match_snd,false,0);
+		audio_emitter_free(me);
 	} else {
 		g[pickup_x,pickup_y]=holding.image_index;
 		instance_destroy(holding);
 		holding = noone;
 		pickup_x = -1;
 		pickup_y = -1;
+		var me = audio_emitter_create();
+		audio_play_sound_on(me,bad_match_snd,false,0);
+		audio_emitter_free(me);
 	}
 }

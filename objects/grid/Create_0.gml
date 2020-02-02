@@ -15,6 +15,9 @@ poo_stks = 0;
 rck_axe = 0;
 fire = false;
 
+sounds = audio_emitter_create();
+audio_play_sound_on(sounds,bg_music,true,0);
+
 animate = 0;
 ani_loop = 120;
 fire_ani = 0;
