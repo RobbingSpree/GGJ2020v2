@@ -391,6 +391,14 @@
             }
         },
         {
+            "Key": "72c59353-cb00-458e-8bcc-c1e7e036e478",
+            "Value": {
+                "id": "30b87866-d309-4c32-8906-7ad9ffd60f25",
+                "resourcePath": "datafiles_yy\\Crafting Tree - combo_csv.csv.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "72e69f58-d23c-4764-abcb-d11e65a2e4a2",
             "Value": {
                 "id": "8e0939d3-f15b-4bda-be39-f4f97874e42c",
@@ -772,14 +780,6 @@
                 "id": "d78b4908-dc7a-4dcf-891f-3234132b86cd",
                 "resourcePath": "options\\android\\options_android.yy",
                 "resourceType": "GMAndroidOptions"
-            }
-        },
-        {
-            "Key": "e7d95225-0a64-4e1f-89c1-8dd046d1a7cb",
-            "Value": {
-                "id": "477b27bd-eec2-4083-9ce4-b64113b3dc3d",
-                "resourcePath": "datafiles_yy\\Crafting Tree - combo_csv.csv.yy",
-                "resourceType": "GMIncludedFile"
             }
         },
         {

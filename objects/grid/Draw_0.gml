@@ -8,10 +8,7 @@ for (var xx=0; xx<wid; xx++)
 		draw_sprite(grid_spr,0,x+xx*cell_,y+yy*cell_);
 		if g[xx,yy] >-1
 		{
-			if g[xx,yy] < item.Sprout
 				draw_sprite_ext(high_res_items,g[xx,yy],x+xx*cell_,y+yy*cell_,scale,scale,0,c_white,1);
-			else
-				draw_sprite(item_spr,g[xx,yy],x+xx*cell_,y+yy*cell_);
 		}
 		else if g[xx,yy] ==-2
 			draw_sprite(fire_spr,fire_ani,x+xx*cell_,y+yy*cell_);
