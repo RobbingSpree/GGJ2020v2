@@ -2,6 +2,7 @@
 wid = 10; //width of grid
 hei = 10; //height of grid
 cell_ = 64; //cell width and height
+scale = 0.08; //scale to shrink the high res sprites
 g=[]; //grid all items are stored in
 mgx = 0; //mouse grid pos x
 mgy = 0; //mouse grid pos y

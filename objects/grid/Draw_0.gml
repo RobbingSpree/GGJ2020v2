@@ -9,7 +9,7 @@ for (var xx=0; xx<wid; xx++)
 		if g[xx,yy] >-1
 		{
 			if g[xx,yy] < item.Sprout
-				draw_sprite(high_res_items,g[xx,yy],x+xx*cell_,y+yy*cell_);
+				draw_sprite_ext(high_res_items,g[xx,yy],x+xx*cell_,y+yy*cell_,scale,scale,0,c_white,1);
 			else
 				draw_sprite(item_spr,g[xx,yy],x+xx*cell_,y+yy*cell_);
 		}
