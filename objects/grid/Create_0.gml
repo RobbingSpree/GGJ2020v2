@@ -21,7 +21,7 @@ fire_ani = 0;
 //inport combo table
 combo_table = load_csv("Crafting Tree - combo_csv.csv")
 ct_size = 48;
-combo_table = parse_table_data(combo_table);
+combo_table = parse_combo_table_data(combo_table);
 
 for (var xx=0; xx<wid; xx++)
 {
