@@ -9,9 +9,9 @@ if dir == 2 {
 	for (var i=0; i<grid.wid-grid.mgx-1; i++)
 	{
 		shuff_out = grid.g[mgx+i+1,mgy];
+		grid.g[mgx+i+1,mgy] = shuff_in;
 		if shuff_out == noone
 			return -1;
-		grid.g[mgx+i+1,mgy] = shuff_in;
 		shuff_in = shuff_out;
 	}
 } else if dir == 3 { 
@@ -19,9 +19,9 @@ if dir == 2 {
 	for (var i=0; i<grid.mgy; i++)
 	{
 		shuff_out = grid.g[mgx,mgy-i-1];
+		grid.g[mgx,mgy-i-1] = shuff_in;
 		if shuff_out == noone
 			return -1;
-		grid.g[mgx,mgy-i-1] = shuff_in;
 		shuff_in = shuff_out;
 	}
 } else if dir == 4 || dir == 0 {
@@ -29,9 +29,9 @@ if dir == 2 {
 	for (var i=0; i<grid.mgx; i++)
 	{
 		shuff_out = grid.g[mgx-i-1,mgy];
+		grid.g[mgx-i-1,mgy] = shuff_in;
 		if shuff_out == noone
 			return -1;
-		grid.g[mgx-i-1,mgy] = shuff_in;
 		shuff_in = shuff_out;
 	}
 } else if dir == 1 {
@@ -39,9 +39,9 @@ if dir == 2 {
 	for (var i=0; i<grid.hei-grid.mgy-1; i++)
 	{
 		shuff_out = grid.g[mgx,mgy+i+1];
+		grid.g[mgx,mgy+i+1] = shuff_in;
 		if shuff_out == noone
 			return -1;
-		grid.g[mgx,mgy+i+1] = shuff_in;
 		shuff_in = shuff_out;
 	}
 }

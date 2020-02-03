@@ -43,5 +43,13 @@ enum item
 	Bigger_Crops,
 	Longer_Grass,
 	Preditor,
-	Larger_Animal
+	Larger_Animal,
+	Fossil,
+	Harvest,
+	Barren_landscape,
+	Moss_stick,
+	Flower_field,
+	Honey,
+	Fire,
+	Hut
 }

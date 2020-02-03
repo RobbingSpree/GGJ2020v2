@@ -26,7 +26,7 @@ animate++;
 if animate >= ani_loop
 {
 	fire_ani+=1;
-	if fire_ani ==3
+	if fire_ani ==8
 		fire_ani = 0;
 	animate=0;
 }

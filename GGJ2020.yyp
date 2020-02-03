@@ -39,14 +39,6 @@
             }
         },
         {
-            "Key": "0da28588-11f3-49f6-a7ed-2571623008e7",
-            "Value": {
-                "id": "a52b89a3-c7df-4e87-9b5e-0ee9100ce10d",
-                "resourcePath": "sprites\\spr_gem_purple\\spr_gem_purple.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "0e7f8789-6c94-45fb-a2d7-c077fa46de4f",
             "Value": {
                 "id": "fc8f7357-f0a9-43ed-9318-b89f801e0fc7",
@@ -71,11 +63,11 @@
             }
         },
         {
-            "Key": "1a26a811-9483-4a76-a41a-544d150e9b29",
+            "Key": "172c35a2-1d51-4aef-865e-5e21c7156488",
             "Value": {
-                "id": "80918a9f-0332-4678-b3ae-05b5c5e40178",
-                "resourcePath": "views\\1a26a811-9483-4a76-a41a-544d150e9b29.yy",
-                "resourceType": "GMFolder"
+                "id": "ed19a09f-9b38-431a-b2fc-d396e012b6eb",
+                "resourcePath": "sprites\\Flames_ani\\Flames_ani.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -143,19 +135,19 @@
             }
         },
         {
+            "Key": "43cf08d6-31d4-43d2-9fd8-917a22fb2d3e",
+            "Value": {
+                "id": "993d6f05-c639-41a4-98dc-bf293919c9f9",
+                "resourcePath": "datafiles_yy\\Crafting Tree - combo_csv.csv.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "4472de16-aebb-47b0-a575-3de6af3942c0",
             "Value": {
                 "id": "6382c4d8-b517-4b00-94e5-9daece2b39b4",
                 "resourcePath": "sprites\\back_button\\back_button.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "477e5096-85aa-48e5-9f64-2b99c8f8c866",
-            "Value": {
-                "id": "b7a7267d-ab9d-4963-90e6-a3815e2038d3",
-                "resourcePath": "views\\477e5096-85aa-48e5-9f64-2b99c8f8c866.yy",
-                "resourceType": "GMFolder"
             }
         },
         {
@@ -255,19 +247,19 @@
             }
         },
         {
+            "Key": "6f122ace-e080-4c3a-a2b3-d7011042e0d1",
+            "Value": {
+                "id": "0fa47fe7-0ac5-4188-a770-443c8d768a6c",
+                "resourcePath": "objects\\daynight\\daynight.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "714b57b6-0c86-441f-bf20-a4566fa66d77",
             "Value": {
                 "id": "18e706e6-9153-40ee-9282-8e56b01a2a71",
                 "resourcePath": "sprites\\cell_edge_spr\\cell_edge_spr.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "72c59353-cb00-458e-8bcc-c1e7e036e478",
-            "Value": {
-                "id": "30b87866-d309-4c32-8906-7ad9ffd60f25",
-                "resourcePath": "datafiles_yy\\Crafting Tree - combo_csv.csv.yy",
-                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -279,18 +271,18 @@
             }
         },
         {
+            "Key": "788c50e6-8b7a-4b03-ac07-de915d8dc364",
+            "Value": {
+                "id": "4ac167de-aeb9-4cd2-ba32-298e3065343e",
+                "resourcePath": "views\\788c50e6-8b7a-4b03-ac07-de915d8dc364.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "7ae99982-e991-485f-b9a0-06c33cfb9737",
             "Value": {
                 "id": "2efc35dd-a583-46ef-9790-0ef3f5663d3d",
                 "resourcePath": "sprites\\high_res_items\\high_res_items.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "7f888314-b215-47a3-83aa-85dc604836ff",
-            "Value": {
-                "id": "ea44e2b7-c949-4777-a71f-b8987efee6aa",
-                "resourcePath": "sprites\\spr_green_gem\\spr_green_gem.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -316,14 +308,6 @@
                 "id": "a75726cd-d96a-431d-9011-394f2bf2aeb5",
                 "resourcePath": "options\\ios\\options_ios.yy",
                 "resourceType": "GMiOSOptions"
-            }
-        },
-        {
-            "Key": "871c5638-284e-46d4-b6d6-d19a55cc298a",
-            "Value": {
-                "id": "8383c15a-4399-4854-aea8-e6577392ead0",
-                "resourcePath": "sprites\\spr_blue_gem\\spr_blue_gem.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -372,14 +356,6 @@
                 "id": "9c4e5420-4f18-4994-b8ce-53ef0bbb6515",
                 "resourcePath": "options\\tvos\\options_tvos.yy",
                 "resourceType": "GMtvOSOptions"
-            }
-        },
-        {
-            "Key": "949d48d6-4dfd-4c10-8d50-8a6552cea751",
-            "Value": {
-                "id": "3a0622e7-c99f-4333-a881-20b012ba486f",
-                "resourcePath": "sprites\\spr_orange_gem\\spr_orange_gem.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -436,14 +412,6 @@
                 "id": "4518f4cc-7269-4c94-a82d-ccdbd20972fd",
                 "resourcePath": "sounds\\bad_match_snd\\bad_match_snd.yy",
                 "resourceType": "GMSound"
-            }
-        },
-        {
-            "Key": "b6e6ca0d-1b85-4dc7-bf08-b9b3171803a8",
-            "Value": {
-                "id": "36dc835a-a35f-444f-a493-15f575352768",
-                "resourcePath": "sprites\\spr_red_gem\\spr_red_gem.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -523,6 +491,14 @@
             "Value": {
                 "id": "1a7a1336-5586-474f-819e-3d2f4309e1dd",
                 "resourcePath": "sprites\\water_bg\\water_bg.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d959efb3-ed3b-4250-8606-c4efcbd1e927",
+            "Value": {
+                "id": "efb5c536-511b-484a-9d5b-55399ee74815",
+                "resourcePath": "sprites\\glow_spr\\glow_spr.yy",
                 "resourceType": "GMSprite"
             }
         },

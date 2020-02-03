@@ -1,49 +1,52 @@
-48 Total,Grass,Stick,Small animal,Shrub,Dirt,Poo,Rock,Ore,Sprout,Coal,Insect,Bee,Water,Long Grass,Medium Animal,Crop,Moss,Flower,Bundle of sticks,Corpse,Poo stick,Rock axe,Mushrooms,Pencil,Turtle`,Grove,Tree,Marsh,Fetaliser,Mud,Bigger poo,Beatle,Rock garden,Diamond,Paste,Creek,Swarm,Wasp,Hive,Hay Stack,Bigger Crops,Longer Grass,Preditor,Large Animal,Fossil,Harvest,Barren Landscape,Moss Stick
-Grass,Long Grass,,Medium Animal,,Grass,Crop,Moss,,Flower,,,,Long Grass,Hay Stack,Large Animal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Stick,,Bundle of sticks,Corpse,,,Poo stick,Rock axe,,Mushrooms,Pencil,,,Water,,Corpse,,Moss Stick,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Small animal,Medium Animal,Corpse,third animal,Medium Animal,,,Corpse,,Medium Animal,,,Corpse,Turtle`,Medium Animal,Large Animal,Medium Animal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Shrub,,,Medium Animal,Grove,,Tree,,,,,,Flowers,Marsh,,Large Animal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Dirt,Grass,,,,,Fetaliser,,,,,,,Mud,Longer grass,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Poo,Crop,Poo stick,,Tree,Fetaliser,Bigger poo,,,Crop,,Beatle,,Fertaliser,Bigger Crops,,Bigger Crops,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Rock,Moss,Rock axe,Corpse,,,,Fire,,,Diamond,Paste,Paste,Creek,Long Grass,Corpse,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ore,,,,,,,,,,,Paste,Paste,,Long Grass,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Sprout,Flower,Mushrooms,Medium Animal,,,Crop,,,,,,Flower,Crop,Longer grass,Large Animal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Coal,,Pencil,,,,,Diamond,,,,Paste,Paste,,Long Grass,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Insect,,,,,,Beatle,Paste,Paste,,Paste,Swarm,Wasp,Corpse,Long Grass,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Bee,,,Corpse,Flowers,,,Paste,Paste,Flower,Paste,Wasp,Hive,Corpse,Long Grass,Corpse,Bigger Crops,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Water,Long Grass,Water,Turtle`,Marsh,Mud,Fertaliser,Creek,,Crop,,Corpse,Corpse,Creek,Marsh,Large Animal,Bigger Crops,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Long Grass,Hay Stack,,Medium Animal,,Longer grass,Bigger Crops,Long Grass,Long Grass,Longer grass,Long Grass,Long Grass,Long Grass,Marsh,Longer grass,Preditor,Long Grass,,,Long Grass,Long Grass,,Grass,Long Grass,Long Grass,Long Grass,,,,Longer grass,Longer grass,Longer grass,Long Grass,,Long Grass,Long Grass,,,,,,,,,,,,,
-Medium Animal,Large Animal,Corpse,Large Animal,Large Animal,,,Corpse,,Large Animal,,,Corpse,Large Animal,Preditor,third animal added,Large Animal,,,,Large Animal,Corpse,Corpse,Large Animal,,Corpse + Medium Animal,Large Animal,,Fossil,,,Corpse,,,,,Corpse,Corpse,Corpse,,,,,,,,,,
-Crop,,,Medium Animal,,,Bigger Crops,,,,,,Bigger Crops,Bigger Crops,Long Grass,Large Animal,Bigger Crops,,,,Bigger Crops,Bigger Crops,Harvest,Bigger Crops,,,,,,Bigger Crops,,Bigger Crops,Barren Land,,,Barren Land,Barren Land,,,,,,,,,,,,
-Moss,,Moss Stick,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Flower,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Bundle of sticks,,,,,,,,,,,,,,Long Grass,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Corpse,,,,,,,,,,,,,,Long Grass,Large Animal,Bigger Crops,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Poo stick,,,,,,,,,,,,,,,Corpse,Bigger Crops,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Rock axe,,,,,,,,,,,,,,Grass,Corpse,Harvest,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Mushrooms,,,,,,,,,,,,,,Long Grass,Large Animal,Bigger Crops,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Pencil,,,,,,,,,,,,,,Long Grass,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Turtle`,,,,,,,,,,,,,,Long Grass,Corpse + Medium Animal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Grove,,,,,,,,,,,,,,,Large Animal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Tree,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Marsh,,,,,,,,,,,,,,,Fossil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Fetaliser,,,,,,,,,,,,,,Longer grass,,Bigger Crops,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Mud,,,,,,,,,,,,,,Longer grass,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Bigger poo,,,,,,,,,,,,,,Longer grass,Corpse,Bigger Crops,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Beatle,,,,,,,,,,,,,,Long Grass,,Barren Land,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Rock garden,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Diamond,,,,,,,,,,,,,,Long Grass,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Paste,,,,,,,,,,,,,,Long Grass,,Barren Land,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Creek,,,,,,,,,,,,,,,Corpse,Barren Land,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Swarm,,,,,,,,,,,,,,,Corpse,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Wasp,,,,,,,,,,,,,,,Corpse,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Hive,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Hay Stack,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Bigger Crops,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Longer Grass,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Preditor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Large Animal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Fossil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Harvest,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Barren Landscape,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Moss Stick,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+48 Total,Grass,Stick,Small animal,Shrub,Dirt,Poo,Rock,Ore,Sprout,Coal,Insect,Bee,Water,Long Grass,Medium Animal,Crop,Moss,Flower,Bundle of sticks,Corpse,Poo stick,Rock axe,Mushrooms,Pencil,Turtle`,Grove,Tree,Marsh,Fetaliser,Mud,Bigger poo,Beatle,Rock garden,Diamond,Paste,Creek,Swarm,Wasp,Hive,Hay Stack,Bigger Crops,Longer Grass,Preditor,Large Animal,Fossil,Harvest,Barren Landscape,Moss Stick,Flower Field,Honey,Fire
+Grass,Long Grass,,Medium Animal,,Grass,Crop,Moss,,Flower,,,,Long Grass,Hay Stack,Large Animal,,,,,Long Grass,Grass,Dirt,,,,Grove,Tree,Marsh,Long Grass,,Long Grass,Grass,,Grass,,,Bee,Flower,,,,,,,,,,,,Flower,Fire
+Stick,,Bundle of sticks,Corpse,,,Poo stick,Rock axe,,Mushrooms,Pencil,,,Water,,Corpse,,Moss Stick,,,,Budle of sticks,Budle of sticks,,,Rock,,,Marsh,Tree,Marsh,Tree,,,Rock Axe,,Creek,Swarm,Swarm,Honey,,,Grass,Preditor,,,,Dirt,Bundle of Sticks,Grass,,Fire
+Small animal,Medium Animal,Corpse,third animal,Medium Animal,,,Corpse,,Medium Animal,,,Corpse,Turtle`,Medium Animal,Large Animal,Medium Animal,,,Corpse,Medium Animal,,Corpse,Preditor,,,Grove,Tree,Marsh,,,,Small Animal,,,,Turtle,Corpse,Corpse,Medium animal,Hay Stack,Medium animal,Longer Grass,Preditor,Large Animal,,Medium animal,,,Grass,,Corpse
+Shrub,,,Medium Animal,Grove,,Tree,,,,,,Flowers,Marsh,,Large Animal,,,Grove,,Grove,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fire
+Dirt,Grass,,,,,Fetaliser,,,,,,,Mud,Longer grass,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Poo,Crop,Poo stick,,Tree,Fetaliser,Bigger poo,,,Crop,,Beatle,,Fertaliser,Bigger Crops,,Bigger Crops,Fertaliser,Flower Field,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Rock,Moss,Rock axe,Corpse,,,,Fire,,,Diamond,Paste,Paste,Creek,Long Grass,Corpse,,,Barren Land,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ore,,,,,,,,,,,Paste,Paste,,Long Grass,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sprout,Flower,Mushrooms,Medium Animal,,,Crop,,,Crop,,,Flower,Crop,Longer grass,Large Animal,,,,,Crop,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fire
+Coal,,Pencil,,,,,Diamond,,,,Paste,Paste,,Long Grass,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fire
+Insect,,,,,,Beatle,Paste,Paste,,Paste,Swarm,Wasp,Corpse,Long Grass,,,,,,Swarm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fire
+Bee,,,Corpse,Flowers,,,Paste,Paste,Flower,Paste,Wasp,Hive,Corpse,Long Grass,Corpse,Bigger Crops,,Honey,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fire
+Water,Long Grass,Water,Turtle`,Marsh,Mud,Fertaliser,Creek,,Crop,,Corpse,Corpse,Creek,Marsh,Large Animal,Bigger Crops,Paste,Flower Field,,Barren Land,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Barren Landscape
+Long Grass,Hay Stack,,Medium Animal,,Longer grass,Bigger Crops,Long Grass,Long Grass,Longer grass,Long Grass,Long Grass,Long Grass,Marsh,Longer grass,Preditor,Long Grass,,,Long Grass,Long Grass,,Grass,Long Grass,Long Grass,Long Grass,,,,Longer grass,Longer grass,Longer grass,Long Grass,,Long Grass,Long Grass,,,,,,,,,,,,,,,,Fire
+Medium Animal,Large Animal,Corpse,Large Animal,Large Animal,,,Corpse,,Large Animal,,,Corpse,Large Animal,Preditor,third animal added,Large Animal,,,Corpse,Large Animal,Corpse,Corpse,Large Animal,,Corpse + Medium Animal,Large Animal,,Fossil,,,Corpse,,,,,Corpse,Corpse,Corpse,,,,,,,,,,,,,Corpse
+Crop,,,Medium Animal,,,Bigger Crops,,,,,,Bigger Crops,Bigger Crops,Long Grass,Large Animal,Bigger Crops,,,,Bigger Crops,Bigger Crops,Harvest,Bigger Crops,,,,,,Bigger Crops,,Bigger Crops,Barren Land,,,Barren Land,Barren Land,,,,,,,,,,,,,,,Fire
+Moss,,Moss Stick,,,,Fertaliser,,,,,,,Paste,,,,,,Moss Stick,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rock
+Flower,,,,Grove,,Flower Field,Barren Land,,,,,,Flower Field,,,,,Flower Field,,Flower Field,,,,,,,,,Flower Field,,Flower Field,,,,,Flower Field,,,Flower Field,,,,,,,,Barren Land,,Flower Field,,Fire
+Bundle of sticks,,,Flower Field,,,,,,,,,,,Long Grass,Corpse,,Moss Stick,,Hut,,Fertaliser,,,,,,,,Fertaliser,,,,,,,,,,,,,,,,,,,,,,Fire
+Corpse,Long Grass,,Medium Animal,Grove,,,,,Crop,,Swarm,,Barren Land,Long Grass,Large Animal,Bigger Crops,,Flower Field,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Barren Landscape
+Poo stick,Grass,Budle of sticks,,,,,,,,,,,,,Corpse,Bigger Crops,Fertaliser,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fire
+Rock axe,Dirt,Budle of sticks,Corpse,,,,,,,,,,,Grass,Corpse,Harvest,,Barren Land,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rock
+Mushrooms,,,Preditor,,,,,,,,,,,Long Grass,Large Animal,Bigger Crops,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fire
+Pencil,,,,,,,,,,,,,,Long Grass,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Coal
+Turtle,,Rock,,,,,,,,,,,,Long Grass,Corpse + Medium Animal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Corpse
+Grove,Grove,,Grove,,,,,,,,,,,,Large Animal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Coal
+Tree,Tree,,Tree,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Coal
+Marsh,Marsh,Marsh,Marsh,,,,,,,,,,,,Fossil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Barren Landscape
+Fetaliser,Long Grass,Tree,,,,,,,,,,,,Longer grass,,Bigger Crops,Fertaliser,Flower Field,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dirt
+Mud,,Marsh,,,,,,,,,,,,Longer grass,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dirt
+Bigger poo,Long Grass,Tree,,,,,,,,,,,,Longer grass,Corpse,Bigger Crops,,Flower Field,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Beatle,Grass,,Small Animal,,,,,,,,,,,Long Grass,,Barren Land,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fire
+Rock garden,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Diamond,Grass,Rock Axe,,,,,,,,,,,,Long Grass,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Paste,,,,,,,,,,,,,,Long Grass,,Barren Land,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Creek,,Creek,Turtle,,,,,,,,,,,,Corpse,Barren Land,,Flower Field,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Swarm,Bee,Swarm,Corpse,,,,,,,,,,,,Corpse,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Wasp,Flower,Swarm,Corpse,,,,,,,,,,,,Corpse,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hive,,Honey,Medium animal,,,,,,,,,,,,,,,Flower Field,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Hay Stack,,,Hay Stack,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fire
+Bigger Crops,,,Medium animal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fire
+Longer Grass,,Grass,Longer Grass,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fire
+Preditor,,Preditor,Preditor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Large Animal,,,Large Animal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Medium Animal
+Fossil,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Harvest,,,Medium animal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fire
+Barren Landscape,,Dirt,,,,,,,,,,,,,,,,Barren Land,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Moss Stick,,Bundle of Sticks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Stick
+Flower Field,,Grass,Grass,,,,,,,,,,,,,,,Flower Field,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Grass
+Honey,Flower,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Fire,Fire,Fire,Corpse,Fire,,,,,Fire,Fire,Fire,Fire,Barren Landscape,Fire,Corpse,Fire,Rock,Fire,Fire,Barren Landscape,Fire,Rock,Fire,Coal,Corpse,Coal,Coal,Barren Landscape,Dirt,Dirt,,Fire,,,,,,,,Fire,Fire,Fire,,Medium Animal,,Fire,,Stick,Grass,,Fire

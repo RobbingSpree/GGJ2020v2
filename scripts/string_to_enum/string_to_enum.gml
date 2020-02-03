@@ -43,11 +43,17 @@ switch argument0
 	case "Hay Stack":		return item.Hay_Stack;
 	case "Bigger Crops":		return item.Bigger_Crops;
 	case "Longer Grass":		return item.Longer_Grass;
-	case "Preditor":			return -1;
-	case "Large Animal":		return -1;
-	case "Fossil":			return -1;
-	case "Harvest":			return -1;
-	case "Barren":	return -1;
-	case "Moss Stick":		return	-1;
+	case "Preditor":			return item.Preditor;
+	case "Large Animal":		return item.Larger_Animal;
+	case "Fossil":			return item.Fossil;
+	case "Harvest":			return item.Harvest;
+	case "Barren Landscape":	return item.Barren_landscape;
+	case "Moss Stick":		return	item.Moss_stick;
+	case "Flower Field":		return	item.Flower_field;
+	case "Honey":		return	item.Honey;
+	case "Fire":		return	item.Fire;
 	default: return -1;
 }
+
+
+
