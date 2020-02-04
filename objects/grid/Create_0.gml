@@ -40,5 +40,8 @@ g=fill_the_board(g,wid,hei);
 unlocks = [];
 for (var i=0; i<ct_size; i++)
 {
-	unlocks[i]=0;
+	for (var k=0; k<ct_size; k++)
+	{
+		unlocks[i,k]=0;
+	}
 }

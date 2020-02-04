@@ -19,7 +19,6 @@ if mouse_x > x && mouse_y > y && mouse_x < x+wid*cell_ && mouse_y < x+wid*cell_ 
 				move_cells(closest_edge/90);
 			}
 		}
-		unlocks[result]+=1;
 		instance_destroy(holding);
 		holding = noone;
 		pickup_x = -1;

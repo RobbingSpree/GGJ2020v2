@@ -10,3 +10,8 @@ debug = false;
 
 x=grid.x;
 y=grid.y;
+
+time = 0;
+day_length = 10; //number of seconds between dawn and dusk
+a_second = room_speed;
+day = false; //if it is currently daytime or not

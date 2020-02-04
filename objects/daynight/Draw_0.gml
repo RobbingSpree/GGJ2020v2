@@ -25,4 +25,10 @@ if debug = true
 	}
 	surface_reset_target();
 	draw_surface_ext(night_cycle_surf,0,0,1,1,0,c_white,alpha)
+	
+	//debug
+	draw_set_font(-1);
+	draw_text(10,room_height-60,day);
+	draw_text(10,room_height-40,time);
+	draw_text(10,room_height-20,alpha);
 }

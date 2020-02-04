@@ -1,0 +1,57 @@
+
+switch argument0
+{
+	case item.Grass:			return "A tuft of spindly blades, great for losing stuff in and feeding things to";
+	case item.Stick:			return "More fun than you can poke at";
+	case item.Small_animal:		return "Seems harmless enough, looks hungry";
+	case item.Shrub:			return "Looks like it's hiding something";
+	case item.Dirt:				return "I don't know what I can do with this";
+	case item.Poo:				return "I'm not picking that up";
+	case item.Rock:				return "Dropping this on your foot hurts";
+	case item.Ore:				return "A shiny rock...kinda useless here";
+	case item.Sprout:			return "I won't say what's making it grow well, but it is";
+	case item.Coal:				return "Hard to get off your hands";
+	case item.Insect:			return "So that's what's making that noise";
+	case item.Bee:				return "Its just as afraid of me as I am of it";
+	case item.Water:			return "Is wet";
+	case item.Long_Grass:		return "Do I dare plumb it's depths to find what secrets lie hidden within?";
+	case item.Medium_Animal:	return "It doesn't look tame enough to let me ride it";
+	case item.Crop:				return "I don't know how I could cook this";
+	case item.Moss:				return "Not as comfortable as it looks, what with all the rocks under it";
+	case item.Flower:			return "By any other name would be difficult to talk about";
+	case item.Bundle_of_sticks:	return "Great...now what?";
+	case item.Corpse:			return "I may have made a mistake";
+	case item.Poo_stick:		return "I picked it up";
+	case item.Rock_axe:			return "A mighty tool";
+	case item.Mushrooms:		return "Mushroom, MUSHROOM!";
+	case item.Pencil:			return "The mightier tool";
+	case item.Turtle:			return "He has delicious looking flippers";
+	case item.Grove:			return "Now there's more of them";
+	case item.Tree:				return "I could probably climb that";
+	case item.Marsh:			return "And this is why I don't have shoes anymore";
+	case item.Fetaliser:		return "Smells worse than a tyre fire, but way more useful";
+	case item.Mud:				return "A fine silt suspended in a viscious solution, a muddy solution";
+	case item.Bigger_poo:		return "I don't want to meet the creature that can make this";
+	case item.Beatle:			return "He's collecting the poo, but I don't know why";
+	case item.Rock_garden:		return "It's nice to look at, but I don't know how I can use it";
+	case item.Diamond:			return "Very hard";
+	case item.Paste:			return "I've made a mistake of a bug";
+	case item.Creek:			return "Maybe if I keep throwing stuff into it something good will happen";
+	case item.Swarm:			return "I am afraid";
+	case item.Wasp:				return "I am as afraid of it as it implies";
+	case item.Hive:				return "A small house full of food";
+	case item.Hay_Stack:		return "Exactly what it says on the tin, except it isn't in a tin";
+	case item.Bigger_Crops:		return "They sure are growing, I don't know when to harvest them";
+	case item.Longer_Grass:		return "This looks full of something";
+	case item.Preditor:			return "He looks like he could hurt me";
+	case item.Larger_Animal:	return "Birds are jerks";
+	case item.Fossil:			return "Something that died ages ago, I wasn't responsible for this";
+	case item.Harvest:			return "Great...now what?";
+	case item.Barren_landscape:	return "I have made a different kind of mistake";
+	case item.Moss_stick:		return "This didn't make the stick much better";
+	case item.Flower_field:		return "Visually appealling, but I have no one to appeal to";
+	case item.Honey:			return "Delicious bee vomit";
+	case item.Fire:				return "Quite hot, not good";
+	case item.Hut:				return "Now I have somewhere to sleep";
+	default: return -1;
+}

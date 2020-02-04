@@ -15,20 +15,28 @@ for (var xx=0; xx<wid; xx++)
 	}
 }
 
+//show the result hint
 if holding != noone && g[mgx,mgy] >-1
 {
 	draw_sprite(bg_box,0,300,736)
 	draw_sprite_ext(cell_edge_spr,0,x+mgx*cell_+cell_/2,y+mgy*cell_+cell_/2,1,1,closest_edge,c_white,1);
 	//show results
 	draw_set_font(ui_fnt);
-	var str = "Restul:";
+	var str = "Result:";
 	draw_text(300,736,str);
-	var temp_result =  ds_grid_get(combo_table,holding.image_index,g[mgx,mgy]);;
-	
-	if temp_result != -1 && unlocks[holding.image_index] >0
+	var temp_result =  ds_grid_get(combo_table,holding.image_index,g[mgx,mgy]);
+	if temp_result != -1 && unlocks[holding.image_index,g[mgx,mgy]] >0
+	{
 		draw_sprite_ext(high_res_items,temp_result,300+100,736,scale,scale,0,c_white,1);
+		draw_set_font(ui_fnt);
+		draw_text(300+50,736+64,get_name(temp_result));
+	}
 	else 
+	{
 		draw_sprite(question_spr,0,300+100,736);
+		draw_set_font(ui_fnt);
+		draw_text(300+50,736+64,"Unknown");
+	}
 }
 
 //debug
