@@ -14,7 +14,7 @@ for (var xx=0; xx<wid; xx++)
 			draw_sprite_ext(Flames_ani,fire_ani,x+xx*cell_,y+yy*cell_,scale,scale,0,c_white,1);
 	}
 }
-
+/*
 //show the result hint
 if holding != noone && g[mgx,mgy] >-1
 {
