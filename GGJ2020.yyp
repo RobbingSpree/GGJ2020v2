@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "40aa139b-4124-4db8-bb9e-94d8dd4336cc",
+            "Value": {
+                "id": "4df6a526-3e3f-4ec1-ac0f-7cb1bd94b192",
+                "resourcePath": "sprites\\import_items\\import_items.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "43cf08d6-31d4-43d2-9fd8-917a22fb2d3e",
             "Value": {
                 "id": "993d6f05-c639-41a4-98dc-bf293919c9f9",
