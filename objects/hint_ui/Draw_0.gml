@@ -30,11 +30,20 @@ with (grid)
 		var temp_result =  ds_grid_get(combo_table,holding.image_index,g[mgx,mgy]);
 		if temp_result != -1 && unlocks[holding.image_index,g[mgx,mgy]] >0
 		{
-			draw_sprite_ext(high_res_items,temp_result,300+100,736,scale,scale,0,c_white,1);
+			var _scale = 0.1;
+			draw_sprite_ext(high_res_items,temp_result,300+100,736,_scale,_scale,0,c_white,1);
 			draw_set_font(ui_fnt);
 			draw_text(300+50,736+64,get_name(temp_result));
 		}
-		else 
+		else if temp_result == -1 && unlocks[holding.image_index,g[mgx,mgy]] <0
+		{
+			draw_sprite(nothing_spr,0,300+100,736);
+			draw_set_font(ui_fnt);
+			draw_set_color(c_black);
+			draw_text(300+50,736+64,"Nothing");
+			draw_set_color(c_white);
+		}
+		else
 		{
 			draw_sprite(question_spr,0,300+100,736);
 			draw_set_font(ui_fnt);

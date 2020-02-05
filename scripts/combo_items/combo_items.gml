@@ -18,4 +18,6 @@ if combo != -1
 	return combo;
 } else {
 	grid.g[grid.pickup_x,grid.pickup_y] = dropping;
+	unlocks[dropping,dropon]-=1;
+	unlocks[dropon,dropping]-=1;
 }
