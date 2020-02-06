@@ -14,10 +14,20 @@ if combo != -1
 		grid.g[xx,yy]=combo;
 		unlocks[dropping,dropon]+=1;
 		unlocks[dropon,dropping]+=1;
+		
+		//make results indicator
+		var result = get_results(combo,dropon,dropping);
+		var pop_up = instance_create_layer(x+mgx*cell_+cell_/2,y+mgy*cell_+cell_/2,"UI",result_notice);
+		pop_up.image_index = result;
 	}
 	return combo;
 } else {
 	grid.g[grid.pickup_x,grid.pickup_y] = dropping;
 	unlocks[dropping,dropon]-=1;
 	unlocks[dropon,dropping]-=1;
+	if change_board
+	{
+		var pop_up = instance_create_layer(x+mgx*cell_+cell_/2,y+mgy*cell_+cell_/2,"UI",result_notice);
+		pop_up.image_index = 4;
+	}
 }

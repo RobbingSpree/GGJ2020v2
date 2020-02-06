@@ -52,6 +52,13 @@ with (grid)
 		
 		
 		//draw descriptions
-		draw_sprite(descr_board,0,80,950);
+		draw_sprite(descr_board,0,80,950); //sprite width 632px
+		var desc = string(get_name(holding.image_index)) + ": " +string(get_description(holding.image_index));
+		//draw_set_font(defont);
+		draw_set_halign(fa_center);
+		draw_set_color(c_black);
+		draw_text_ext(86+316,956,desc,25,624);
+		draw_set_halign(-1);
+		draw_set_color(c_white);
 	}
 }
